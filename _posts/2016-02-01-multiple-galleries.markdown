@@ -69,6 +69,15 @@ gallery3:
 
 <!-- end of GALLERY __ -->
 
+
+           <!-- Gallery __-->
+			
+{% include subgallery.html id="gallery3" %}
+
+<!-- end of GALLERY __ -->
+
+<p> This would be the text for the 3rd gallery. </p>
+
 		</div><!-- end of WRAPPER __ -->
 	</section>
 
