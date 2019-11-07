@@ -3,8 +3,6 @@ layout: "post"
 title: "Multiple Galleries"
 subtitle: "A post with multiple galleries arranged with ISOTOPE"
 active: "journal"
-date: "2016-02-01"
-header-img: "img/postcover/pc007.jpg"
 comments: "true"
 gallery1: 
   - image_path: /img/galleries/g01/bg1.jpg
