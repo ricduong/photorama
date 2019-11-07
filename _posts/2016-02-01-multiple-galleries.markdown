@@ -3,8 +3,6 @@ layout: "post"
 title: "Multiple Galleries"
 subtitle: "A post with multiple galleries arranged with ISOTOPE"
 active: "journal"
-image:
-  feature: "pc007.jpg"
 date: "2016-02-01"
 header-img: "img/postcover/pc007.jpg"
 comments: "true"
@@ -28,6 +26,10 @@ gallery2:
   - image_path: /img/galleries/g02/bg3.jpg
     image-caption: IMAGE TITLE
     image-copyright: © photorama 
+gallery 3:
+  - image_path: /img/postcover/pc007.jpg
+    image-caption: IMAGE TITLE
+    image-copyright: © photorama
 ---
 
 
