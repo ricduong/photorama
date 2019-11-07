@@ -1,14 +1,11 @@
 ---
 layout:     post
 title:      "Planning for future posts"
-subtitle:   "Ideas"
 active: journal
 image:
   feature: "pc001.jpg"
 date:       2020-11-06
 header-img: "img/postcover/pc001.jpg"
-tags: [tag01, tag02]
-categories: [cat01, cat02]
 comments: false
 ---
 Here are some ideas on what type of postings in the future
